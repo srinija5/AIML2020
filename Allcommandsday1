@@ -1,47 +1,44 @@
-   46  git --version
-   47  cd Desktop
-   48  cd.. Desktop
-   49  pwd
-   50  ld
-   51  ls
-   52  cd .. Desktop
-   53  cd ..
-   54  cd Desktop
-   55  ls -a
-   56  mkdir AIML
-   57  cd AIML
-   58  clear
-   59  touch data.txt
-   60  ls
-   61  cat data.txt
-   62  echo "AIandML" > data.txt
-   63  cat data.txt
-   64  nano data.txt   65  cd Desktop/AIML
-   66  nano data.txt
-   67  cat data.txt
-   68  nano data.txt
-   69  clear
-   70  git init
-   71  git status
-   72  git add data.txt
-   73  git status
-   74  git commit -m "First commit"
-   75  git status
-   76  git config --global user.name
-   77  git config --global user.email
-   78  nano data.txt
-   79  git status
-   80  git add data.txt
-   81  git commit -m "Second commit"
-   82  git log
-   83  mkdir AIML2020
-   84  git remote -help
-   85  git remote add AIML2020 https://github.com/srinija5/AIML2020
-   86  git remote show
-   87  git remote -v
-   88  git pull AIML2020 master
-   89  git push -u AIML2020
-   90  git push --set-upstream AIML2020 master
-   91  git push -f --set-upstream AIML2020 master
-   92  history
+     git --version
+     cd Desktop
+     pwd
+     ls
+     cd ..
+     cd Desktop
+     ls -a
+     mkdir AIML
+     cd AIML
+     clear
+     touch data.txt
+     ls
+     cat data.txt
+     echo "AIandML" > data.txt
+     cat data.txt
+     nano data.txt   65  cd Desktop/AIML
+     nano data.txt
+     cat data.txt
+     nano data.txt
+     clear
+     git init
+     git status
+     git add data.txt
+     git status
+     git commit -m "First commit"
+     git status
+     git config --global user.name
+     git config --global user.email
+     nano data.txt
+     git status
+     git add data.txt
+     git commit -m "Second commit"
+     git log
+     mkdir AIML2020
+     git remote -help
+     git remote add AIML2020 https://github.com/srinija5/AIML2020
+     git remote show
+     git remote -v
+     git pull AIML2020 master
+     git push -u AIML2020
+     git push --set-upstream AIML2020 master
+     git push -f --set-upstream AIML2020 master
+     history
 
